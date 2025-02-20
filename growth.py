@@ -1,10 +1,10 @@
-from pydoc import pager
 import streamlit as st # type: ignore
 import pandas as pd # type: ignore
 import os
 from io import BytestIO
 
 st.set_page_config(page_title="Data Growth", layout="wide")
+
 
 #custom css
 
