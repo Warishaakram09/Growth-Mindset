@@ -1,9 +1,10 @@
 import streamlit as st # type: ignore
 import pandas as pd # type: ignore
 import os
-from io import BytestIO
+from io import BytesIO
 
 st.set_page_config(page_title="Data Growth", layout="wide")
+
 
 
 #custom css
